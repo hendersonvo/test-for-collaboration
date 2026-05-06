@@ -14,5 +14,5 @@ This is a repo for testing pulling and staging, committing, pulling, pushing, an
 
 ## Rendered output
 
-
+Rendered output here 
 
