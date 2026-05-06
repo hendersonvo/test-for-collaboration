@@ -1,6 +1,6 @@
 ---
 title: "testing-collaboration"
-author: "Macey Hartmann"
+author: "Macey Hartmann, Henderson Vo"
 format: pdf
 ---
 
